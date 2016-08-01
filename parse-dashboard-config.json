@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "serverURL": "http://vitalworklife.herokuapp.com/parse",
+    "appId": "VwdMOwyrX5cJ1BIx9XVlY5j2AMt0VeiD68G9rReW",
+    "masterKey": "lHtQ4rPwNP09UmJYrhFRpeRSrpfXhZGULkKmqDgL",
+    "appName": "VitalWorkLife",
+    "iconName": ""
+  }],
+  "iconsFolder": "icons"
+}
