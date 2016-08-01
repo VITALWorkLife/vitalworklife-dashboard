@@ -4,7 +4,9 @@
     "serverURL": "http://vitalworklife.herokuapp.com/parse",
     "appId": "VwdMOwyrX5cJ1BIx9XVlY5j2AMt0VeiD68G9rReW",
     "masterKey": "lHtQ4rPwNP09UmJYrhFRpeRSrpfXhZGULkKmqDgL",
-    "appName": "VitalWorkLife"
+    "appName": "VitalWorkLife",
+    "javascriptKey": "XI94gKUg9DHeSN360oeijlQhbA4lhKBlVk4UkRlb",
+    "restKey": "eYdufoJBHk37Dmq7d4Q3VuL58EuiXfgsqGSfw0Lp",
     }
   ],
   "users": [
