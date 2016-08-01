@@ -6,6 +6,16 @@
     "masterKey": "lHtQ4rPwNP09UmJYrhFRpeRSrpfXhZGULkKmqDgL",
     "appName": "VitalWorkLife"
     }
+  ],
+  "users": [
+    {
+      "user":"user1",
+      "pass":"pass"
+    },
+    {
+      "user":"user2",
+      "pass":"pass"
+    }
   ]
 }
 
