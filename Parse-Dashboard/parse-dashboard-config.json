@@ -6,18 +6,15 @@
     "masterKey": "lHtQ4rPwNP09UmJYrhFRpeRSrpfXhZGULkKmqDgL",
     "appName": "VitalWorkLife",
     "javascriptKey": "XI94gKUg9DHeSN360oeijlQhbA4lhKBlVk4UkRlb",
-    "restKey": "eYdufoJBHk37Dmq7d4Q3VuL58EuiXfgsqGSfw0Lp"
+    "restKey": "eYdufoJBHk37Dmq7d4Q3VuL58EuiXfgsqGSfw0Lp",
+    "production": true
     }
   ],
   "users": [
-    {
-      "user":"user1",
-      "pass":"pass"
-    },
-    {
-      "user":"user2",
-      "pass":"pass"
-    }
-  ]
+        {
+            "user": "admin",
+            "pass": "password"
+        }
+    ]
 }
 
